@@ -1435,7 +1435,7 @@ PRODUCT_PACKAGES += \
     WfdService \
     CneApp \
     IWlanService \
-#    TimeService \
+    TimeService \
     PowerOffAlarm \
     QtiTelephonyService \
     uceShimService \
